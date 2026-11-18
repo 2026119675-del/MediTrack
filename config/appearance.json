@@ -1,0 +1,9 @@
+{
+    "system_name": "MediTrack",
+    "theme_mode": "light",
+    "primary_color": "#15803d",
+    "sidebar_color": "#ffffff",
+    "font_family": "Arial",
+    "font_size": 14,
+    "logo": "/meditrack/assets/Logo.png"
+}
